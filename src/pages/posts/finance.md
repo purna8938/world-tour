@@ -1,6 +1,7 @@
 ---
 title: Finance
 subtitle: Every new venture has initially  needs a finance.
+img_path: /images/finance.png
 date: 2019-12-11T01:36:04.106Z
 template: page
 ---
