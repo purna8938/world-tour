@@ -1,16 +1,13 @@
 ---
-title: Ipsum Veroeros
-subtitle: Lorem ipsum dolor sit magna consectetur
+title: Value Proposition
+subtitle: ''
 img_path: images/pic05.jpg
 menus:
   main:
-    title: Ipsum veroeros
+    title: ''
     weight: 2
 template: page
 ---
+Our company will give a lot of benefits to customer's cheap accommodation and hassle-free and safe booking with coupon benefits and flexible booking and cancellation policies. We will book a flight, accommodation at a low cost. Wide range of homes and cheaper hotels for you. We can arrange travel guide so you can get a local experience. Apart from other companies, we will give a lot of cash backs. We have multiple options across price ranges.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+ We will make a market place for renting out short-term living space. If you want to cancel your booking before one week we have a full refund policy. We have 24-hour customer care policy you can call at any time. If we gave a task to hosts we can give incentives for a certain range. Every customer can gain traditional and values of that region to our customers. Every customer needs to be satisfied at the end of the journey. A lot of companies are in the same field but our venture has a lot of offers, insurance, and policies with our values. We will give tax exempt.
