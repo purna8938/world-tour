@@ -5,7 +5,7 @@ excerpt: >-
   the risks
 img_path: /images/risk.jpg
 post_button_label: Details
-date: 2017-12-10T05:00:00.000Z
+date: 2017-01-04T05:00:00.000Z
 template: page
 ---
 Technology risk:
