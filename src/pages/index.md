@@ -11,6 +11,9 @@ sections:
     img_path: images/pic01.jpg
     title: World Tour
     type: intro
+  - component: Spotlight
+    title: Duis torquent
+    type: spotlight
 menus:
   main:
     title: Home
