@@ -1,5 +1,6 @@
 ---
 title: vision
+subtitle: To make your every journey peaceful and money from your vacant home
 excerpt: ''
 img_path: images/pic02.jpg
 post_button_label: Details
