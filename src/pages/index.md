@@ -12,7 +12,7 @@ sections:
     title: World Tour
     type: intro
   - component: Spotlight
-    title: Duis torquent
+    title: Home
     type: spotlight
 menus:
   main:
