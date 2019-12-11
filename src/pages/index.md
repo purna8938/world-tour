@@ -7,10 +7,7 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: A comfortable journey that takes memorable moments
     img_path: images/pic01.jpg
     title: World Tour
     type: intro
