@@ -4,6 +4,7 @@ excerpt: >-
   there are 7 main risks for my venture and also we discuss the solutions for
   the risks
 img_path: /images/risk.jpg
+post_button_label: Details
 date: 2019-12-11T01:16:14.236Z
 template: page
 ---
