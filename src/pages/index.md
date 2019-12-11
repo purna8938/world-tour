@@ -1,20 +1,21 @@
 ---
 title: Home
 sections:
-  - type: intro
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Get Started
+        url: /generic
+    component: Intro
     content: |-
       Lorem ipsum dolor sit magna consectetur  
       adipiscing elit. Duis dapibus rutrum facilisis.  
       Class aptent taciti sociosqu torquent.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Reflex
     img_path: images/pic01.jpg
-    component: Intro
-  - type: features
+    title: Reflex
+    type: intro
+  - actions: []
+    component: Features
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
@@ -22,28 +23,28 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Ipsum malesuada
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
     symbol_display:
-      - title: Lorem
-        icon: fa-code
-      - title: Ipsum
-        icon: fa-cog
-      - title: Dolor
-        icon: fa-diamond
-      - title: Feugiat
-        icon: fa-camera-retro
-      - title: Tempus
-        icon: fa-briefcase
-    component: Features
-  - type: spotlight
+      - icon: fa-code
+        title: Lorem
+      - icon: fa-cog
+        title: Ipsum
+      - icon: fa-diamond
+        title: Dolor
+      - icon: fa-camera-retro
+        title: Feugiat
+      - icon: fa-briefcase
+        title: Tempus
+    title: Ipsum malesuada
+    type: features
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Details
+        url: /generic
+    component: Spotlight
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
@@ -51,31 +52,27 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Duis torquent
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
-    component: Spotlight
-  - type: mission
+    title: Duis torquent
+    type: spotlight
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Get Started
+        url: /generic
+    component: Mission
     content: |-
       Aptent taciti sociosqu litora torquent et conubia sed etiam.  
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
       turpis mauris, ultricies erat malesuada quis.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
     title: Amet ullamcorper
-    component: Mission
+    type: mission
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+
